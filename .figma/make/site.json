@@ -1,0 +1,10 @@
+{
+  "description": "Create and share interactive fiction with branching storylines using an intuitive platform designed for writers and storytellers to engage readers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
